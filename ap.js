@@ -22,13 +22,13 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = '𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah nama lu
-global.botName = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah nama bot lu
-global.author = '© 𝐌𝐓𝐒𝟒𝐘𝐎𝐔'//ubah keinginan mu
-global.packname = '𝐁𝐎𝐓 𝐌𝐓𝐒'//ubah keinginan mau
-global.ownerNumber = ["628989105685@s.whatsapp.net"]//ubah nomer lu
+global.ownerName = 'Wind Store'//ubah nama lu
+global.botName = 'Bot Wind'//ubah nama bot lu
+global.author = '@Wind Store'//ubah keinginan mu
+global.packname = 'Bot Wind'//ubah keinginan mau
+global.ownerNumber = ["6285776505790@s.whatsapp.net"]//ubah nomer lu
 global.prefa = ['','.']
-global.yt = 'http://youtube.com/@melliafriska'//ubah nama yt lu
+global.yt = ''//ubah nama yt lu
 global.mess = {
 wait: 'PROSES...',
 succes: 'SUKSES✓',
